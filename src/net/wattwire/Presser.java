@@ -9,6 +9,11 @@ public class Presser {
         // write your code here
         System.out.println("\n\n ****** Super Olive!!! *******");
 
+        System.out.println("\n *** Let's first have fun with enums: ");
+
+
+
+
     }
 
 }
