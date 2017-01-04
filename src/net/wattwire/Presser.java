@@ -12,8 +12,7 @@ public class Presser {
     public static void main(String[] args) {
         // write your code here
         System.out.println("\n\n ****** Super Olive!!! *******");
-
-        System.out.println("\n *** Let's have fun with XXX: ");
+//        System.out.println("\n *** Let's have fun with XXX: ");
 
         enumTest();
 

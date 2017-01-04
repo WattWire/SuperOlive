@@ -11,9 +11,10 @@ public class TestingBlocs {
 
         System.out.println("\n *** Let's first have fun with enums: ");
 
-        SimpStatus stat = SimpStatus.GREAT;
+        SimpStatus stat = SimpStatus.ITSUCKS;
 
-        System.out.println("\n *** now status equals: " + stat);
+        System.out.print("\n *** now status equals: " + stat + "  level val/level text: ");
+        System.out.println(stat.getSlevel() + "/" + stat.getStext());
 
         switch (stat) {
 
